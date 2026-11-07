@@ -155,7 +155,7 @@ pyspark-ecommerce-pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/p3424488/pyspark-ecommerce-pipeline.git
 cd pyspark-ecommerce-pipeline
 ```
 
