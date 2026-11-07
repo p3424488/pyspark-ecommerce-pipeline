@@ -1,13 +1,27 @@
 
-.venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Testing and coverage
 .pytest_cache/
+.coverage
+htmlcov/
 
+# Spark and generated output
 output/
-data/generated/
+spark-warehouse/
+metastore_db/
+derby.log
 
-.sparkStaging/
-*.log
+# IDE
+.vscode/
 
-.env
+# Operating system
+.DS_Store
+Thumbs.db

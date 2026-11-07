@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,quantity,unit_price
+ORD_M001,CUS00001,PRD0001,2,45000.00
+ORD_M002,CUS00002,PRD0002,3
+ORD_M003,CUS00003,PRD0003,invalid,1000.00
